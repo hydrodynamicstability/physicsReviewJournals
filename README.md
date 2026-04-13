@@ -5,7 +5,7 @@ I recently experienced frustration at my inability to locate, on the Internet, a
 
 In this age of rampant "AI summaries", I continue to value human-authored sources of authoritative, critical overviews, informed by the judgment and perspective of their authors.  This implies that selection and distillation are in order.  These aims compete with the goals of objectiveness and comprehensiveness sometimes suggested for these kinds of articles.   To borrow a phrase from the [editors](https://doi.org/10.1103/RevModPhys.41.1) of *Reviews of Modern Physics*, I nurture an "appreciation for the art of criticism, or the value of synthesis of ideas and of informed and perceptive commentary about physics".  (See also Roberto Lalli’s ["brief history of physics reviews"](https://doi.org/10.1038/s42254-018-0008-0 )).
 
-I start with the general physics review journals, in order of their ranking according to Clarivate’s 2025 Journal Impact Factor (JIF), from its *Journal Citation Reports*.  Then I turn to review journals focusing on subdisciplines.  I start with several review journal families, and conclude with the remaining specialty review journals that I know of and occasionally follow.  To be clear, this list is not intended to be complete, especially for the range of subdisciplines within and adjacent to physics.  I have restricted attention to journals published in English and that appear to be still operating at the time of writing.  (An exception is *Advances in Chemical Physics*, which does not seem to be going anymore, but its immense importance to the literature justifies its inclusion here.)
+I start with the general (broad-spectrum) physics review journals, in order of their ranking according to Clarivate’s 2025 Journal Impact Factor (JIF), from its *Journal Citation Reports*.  Then I turn to review journals focusing on subdisciplines.  I start with several review journal families, and conclude with the remaining specialty review journals that I know of and occasionally follow.  To be clear, this list is not intended to be complete, especially for the range of subdisciplines within and adjacent to physics.  I have restricted attention to journals published in English and that appear to be still operating at the time of writing.  (An exception is *Advances in Chemical Physics*, which does not seem to be going anymore, but its immense importance to the literature justifies its inclusion here.)
 
 # Broad spectrum review journals
 
@@ -19,7 +19,7 @@ This is the highest ranked physics review journal, according to Clarivate.  It w
 
 Current publisher:  Springer-Nature
 
-Second ranked is one of the newest physics review journals; it was founded in 2019 with first lead editor, Iulia Georgescu.  This journal belongs to the recently established *Nature Reviews* family of journals (others include *Nature Reviews Materials* and *Nature Reviews Earth & Environment*, for example).  It is an impressive feat to see that in less than a decade, this journal has climbed the rankings over several much longer-established review journals, listed below.
+Second ranked is one of the newest physics review journals; it was founded in 2019 by its first lead editor, Iulia Georgescu.  This journal belongs to the recently established *Nature Reviews* family of journals (others include *Nature Reviews Materials* and *Nature Reviews Earth & Environment*, for example).  It is an impressive feat to see that in less than a decade, this journal has climbed the rankings over several much longer-established review journals, listed below.
 
 ## [Physics Reports](https://www.sciencedirect.com/journal/physics-reports)
 
@@ -31,7 +31,7 @@ Third ranked is this venerable supplement to *Physics Letters*, originally consi
 
 Current publisher:  Institute of Physics
 
-Rounding out the top four ranked physics review journals, *ROPP* was founded in 1934 by the Physical Society as an annual publication, in the manner of the 19th century German Jahresberichte publications.  In 2024 the journal began also publishing original research, in addition to review articles.  The first volume from 1934 did not print the name of the editor, but the volumes from 1935-1938 list Allan Ferguson as the general editor.
+Rounding out the top four ranked physics review journals, *ROPP* was founded in 1934 by the Physical Society as an annual publication, in the manner of the 19th century German Jahresberichte publications.  In 2024 the journal began also publishing original research, in addition to review articles.  Nonetheless, it remains on this list, since for most of its history, it was a pure review journal.  The first volume from 1934 did not print the name of the editor, but the volumes from 1935-1938 list Allan Ferguson as the general editor.
 
 ## [La Rivista del Nuovo Cimento della Societa Italiana di Fisica](https://link.springer.com/journal/40766)
 
@@ -79,9 +79,9 @@ The title *Advances in...* is so generic that at least three competing publisher
 
 ### Taylor & Francis
 
-[Advances in Physics](https://www.tandfonline.com/journals/tadp20) launched in 1952 as a supplement to *Philosophical Magazine*, long published by Taylor & Francis.  The founding editor was Sir Nevill F. Mott, later a Nobel laureate in physics.  Today it covers condensed matter physics and statistical mechanics, including the overlap with quantum information, cold atoms, soft matter, and biophysics.
+[Advances in Physics](https://www.tandfonline.com/journals/tadp20) launched in 1952 as a supplement to *Philosophical Magazine*, long published by Taylor & Francis.  The founding editor was Sir Nevill F. Mott, later a Nobel laureate in physics.  Today it covers condensed matter physics and statistical mechanics, including the overlap with quantum information, cold atoms, soft matter, and biophysics.  According to Clarivate, it is the top ranked specialty review journal in condensed matter physics, with *Annual Review of Condensed Matter Physics* as number two.
 
-In 2016, the publisher added a second journal to the family, [Advances in Physics:  X](https://www.tandfonline.com/journals/tapx20), under Richard E. Palmer.  This journal seeks to "demonstrate the interconnectivity of physics, meaning the intellectual relationships that exist between one branch of physics and another, as well as the influence of physics across (hence the 'X') traditional boundaries into other disciplines".  According to Clarivate, in 2025 this journal already ranks just below *Reports on Progress in Physics* among the physics review journals.
+In 2016, the publisher added a second journal to the family, [Advances in Physics:  X](https://www.tandfonline.com/journals/tapx20), under Richard E. Palmer.  This journal seeks to "demonstrate the interconnectivity of physics, meaning the intellectual relationships that exist between one branch of physics and another, as well as the influence of physics across (hence the 'X') traditional boundaries into other disciplines".  According to Clarivate, in 2025 this journal already ranks just below *Reports on Progress in Physics* among the broad-spectrum physics review journals, though I consider it to be somewhat of a specialty journal.
 
 In 2025, a third journal was added, [Advances in Physics:  Astronomy, Astrophysics and Particle Physics](https://www.tandfonline.com/journals/taaa20), under Eric S. Perlman.  At the time of writing, no articles have yet appeared.
 
@@ -93,7 +93,7 @@ From 2008-2019, Wiley also published *Advances in Acoustics and Vibration*, but 
 
 ### Elsevier
 
-I have selected two of their review serials for inclusion here; both are in the form of book series (originally published by Academic Press), like *Advances in Chemical Physics*.
+I have selected two of their review serials for inclusion here; both are in the form of book series (originally published by Academic Press), like the *Annual Reviews* and *Advances in Chemical Physics*.
 
 [Advances in Applied Mechanics](https://www.sciencedirect.com/bookseries/advances-in-applied-mechanics) began in 1948 under co-editors Richard von Mises and Theodore von Karman.  Among the authors in the first volume were Hugh Dryden, Jan Burgers, Hilda Geiringer, and Mises himself.
 
@@ -119,7 +119,7 @@ This journal launched in 1963, under lead editor Gordon J. F. MacDonald, and fro
 
 Current publisher:  American Society of Mechanical Engineers
 
-This journal was launched in 1948 under lead editor L. H. Donnell, with editorial advisors Theodore von Karman and Stephen P. Timoshenko.
+This journal was launched in 1948 under lead editor L. H. Donnell, with editorial advisors Theodore von Karman and Stephen P. Timoshenko.  Originally it was quite complementary to *Advances in Applied Mechanics*, founded the same year, since it seemed to focus on critical reviews of specific papers, instead of synthetic overviews of major subjects.  *AMR* has gradually evolved so that at present, it's a more conventional review journal.  According to Clarivate, this is the second highest ranked review journal in mechanics, behind the *Annual Review of Fluid Mechanics*.
 
 
 ## [Applied Physics Reviews](https://pubs.aip.org/aip/apr)
@@ -135,7 +135,7 @@ Current publisher:  Springer-Nature
 
 The journal was launched in 2017 by the Division of Plasma Physics of the Association of Asia Pacific Physical Societies.  If I’m not mistaken, the inaugural chair of the editorial board was Mitsuru Kikuchi.
 
-
+---
 
 First draft of this list completed on 12 April 2026.
 
