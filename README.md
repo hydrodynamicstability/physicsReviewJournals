@@ -61,18 +61,18 @@ First let me discuss several “families” of review journals, starting with th
 
 ## Annual Reviews
 
-These began with the *Annual Review in Biochemistry*, founded by J. Murray Luck, with its first volume published in 1932.  The journal’s advisory committee, who published it, incorporated as a nonprofit in 1934, adopting the name Annual Reviews Inc. in 1937.  Here I have listed a selection of their journals relevant to physics, and the Earth and space sciences.
+These began with the *Annual Review in Biochemistry*, founded by J. Murray Luck, with its first volume published in 1932.  The journal’s advisory committee, who published it, incorporated as a nonprofit in 1934, adopting the name Annual Reviews Inc. in 1937.  They added review journals in other fields over the years; all are annual volumes, like the German Jahresberichte periodicals.  Here I have listed a selection of their journals relevant to physics, and the Earth and space sciences.
 
-| Title	| First volume |
-| ----- | ------------ |
-| [Annual Review of Astronomy and Astrophysics](https://www.annualreviews.org/content/journals/astro)	| 1963 |
-| [Annual Review of Biophysics](https://www.annualreviews.org/content/journals/biophys)	| 1972 |
-| [Annual Review of Condensed Matter Physics](https://www.annualreviews.org/content/journals/conmatphys) |	2010 |
-| [Annual Review of Earth and Planetary Sciences](https://www.annualreviews.org/content/journals/earth)	| 1973 |
-| [Annual Review of Environment and Resources](https://www.annualreviews.org/content/journals/energy)	| 1976 (originally as *Annual Review of Energy*) |
-| [Annual Review of Fluid Mechanics](https://www.annualreviews.org/content/journals/fluid)	| 1969 |
-| [Annual Review of Materials Research](https://www.annualreviews.org/content/journals/matsci)	| 1971 (originally as *Annual Review of Materials Science*) |
-| [Annual Review of Nuclear and Particle Science](https://www.annualreviews.org/content/journals/nucl)	| 1952 |
+| Title	| First volume | Founding editor |
+| ----- | ------------ | --------------- |
+| [Annual Review of Astronomy and Astrophysics](https://www.annualreviews.org/content/journals/astro)	| 1963 | Leo Goldberg |
+| [Annual Review of Biophysics](https://www.annualreviews.org/content/journals/biophys)	| 1972 (originally as *Annual Review of Biophysics and Bioengineering*) | Manuel F. Morales |
+| [Annual Review of Condensed Matter Physics](https://www.annualreviews.org/content/journals/conmatphys) |	2010 | James S. Langer |
+| [Annual Review of Earth and Planetary Sciences](https://www.annualreviews.org/content/journals/earth)	| 1973 | Fred A. Donath |
+| [Annual Review of Environment and Resources](https://www.annualreviews.org/content/journals/energy)	| 1976 (originally as *Annual Review of Energy*) | Jack M. Hollander |
+| [Annual Review of Fluid Mechanics](https://www.annualreviews.org/content/journals/fluid)	| 1969 | William R. Sears |
+| [Annual Review of Materials Research](https://www.annualreviews.org/content/journals/matsci)	| 1971 (originally as *Annual Review of Materials Science*) | Robert Huggins |
+| [Annual Review of Nuclear and Particle Science](https://www.annualreviews.org/content/journals/nucl)	| 1952 (originally as *Annual Review of Nuclear Science*) | Alberto F. Thompson |
 
 ## Advances in…
 The title *Advances in...* is so generic that at least three competing publishers have physics review journals whose titles begin in this manner.  Let’s take each publisher in turn:
@@ -93,7 +93,7 @@ From 2008-2019, Wiley also published *Advances in Acoustics and Vibration*, but 
 
 ### Elsevier
 
-I have selected two of their review serials for inclusion here, both in the form of book series (originally published by Academic Press), like *Advances in Chemical Physics*.
+I have selected two of their review serials for inclusion here; both are in the form of book series (originally published by Academic Press), like *Advances in Chemical Physics*.
 
 [Advances in Applied Mechanics](https://www.sciencedirect.com/bookseries/advances-in-applied-mechanics) began in 1948 under co-editors Richard von Mises and Theodore von Karman.  Among the authors in the first volume were Hugh Dryden, Jan Burgers, Hilda Geiringer, and Mises himself.
 
@@ -137,7 +137,7 @@ The journal was launched in 2017 by the Division of Plasma Physics of the Associ
 
 
 
-
+First draft of this list completed on 12 April 2026.
 
 
 
