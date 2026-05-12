@@ -13,7 +13,7 @@ I start with the general (broad-spectrum) physics review journals, in order of t
 
 Current publisher:  American Physical Society
 
-This is the highest ranked physics review journal, according to Clarivate.  It was founded in 1929 as *The Physical Review Supplement* by the editor of the *Physical Review*, John Tate.  In 1930 it was retitled *Reviews of Modern Physics*.  At the time there was no dedicated review journal in physics in the United States or Europe; the closest thing were overviews of entire sub-disciplines appearing in the *Bulletin of the National Research Council* (1919-1950).  Instead, review papers in physics would usually appear within research journals, including *Nature*, the *Bell System Technical Journal*, and various German journals (where the review article genre originated).  Edward Condon’s note to Tate in 1928 mentioned that *Physiological Reviews* (founded in 1921) and *Chemical Reviews* (founded in 1924) would be good role models for a new physics review journal (see his 1968 reminiscence [here](https://doi.org/10.1103/RevModPhys.40.876)).  However, as far as can be determined, *RMP* was the first dedicated review journal for *physics* anywhere in the world.  A useful [history](https://doi.org/10.1063/PT.3.4133) of *RMP* was offered to *Physics Today* readers in 2019 by its former colloquium editor, Anthony F. Starace.  Previously, an [account](https://doi.org/10.1002/andp.201400810) of *RMP*’s birth was published by Roberto Lalli in *Annalen der Physik*.  Since its founding, *RMP* has been APS’s only journal dedicated to review articles.
+This is the highest ranked physics review journal, according to Clarivate.  It was founded in 1929 as *The Physical Review Supplement* by the editor of the *Physical Review*, John Tate.  In 1930 it was retitled *Reviews of Modern Physics*.  At the time there was no dedicated review journal in physics in the United States or Europe; the closest things were overviews of entire sub-disciplines appearing in the *Bulletin of the National Research Council* (1919-1950), and the German *Jahresberichte* (annual reviews) dating back to the 19th century, which were scarcely more than abstracting services.  Instead, review papers in physics would usually appear within research journals, including *Nature*, the *Bell System Technical Journal*, and various German journals and encyclopedias (where the review article genre originated).  Edward Condon’s note to Tate in 1928 mentioned that *Physiological Reviews* (founded in 1921) and *Chemical Reviews* (founded in 1924) would be good role models for a new physics review journal (see his 1968 reminiscence [here](https://doi.org/10.1103/RevModPhys.40.876)).  However, as far as can be determined, *RMP* was the first dedicated review journal for *physics* anywhere in the world.  A useful [history](https://doi.org/10.1063/PT.3.4133) of *RMP* was offered to *Physics Today* readers in 2019 by its former colloquium editor, Anthony F. Starace.  Previously, an [account](https://doi.org/10.1002/andp.201400810) of *RMP*’s birth was published by Roberto Lalli in *Annalen der Physik*.  Since its founding, *RMP* has been APS’s only journal dedicated to review articles.
 
 As a reader with special interest in fluid mechanics, as far as I can tell, the first review papers on specific fluid mechanics topics appeared in *RMP* only after World War II: in the 1948 special issue honoring Robert Millikan (vol. 20, no. 1) and the 1949 special issue honoring Albert Einstein (vol. 21, no. 3).
 
@@ -21,7 +21,7 @@ As a reader with special interest in fluid mechanics, as far as I can tell, the 
 
 Current publisher:  Springer-Nature
 
-Second ranked is one of the newest physics review journals; it was founded in 2019 by its first lead editor, Iulia Georgescu.  This journal belongs to the recently established *Nature Reviews* family of journals (others include *Nature Reviews Materials* and *Nature Reviews Earth & Environment*, for example).  It is an impressive feat to see that in less than a decade, this journal has climbed the rankings over several much longer-established review journals, listed below.
+Second ranked is one of the newest physics review journals; it was founded in 2019 by its first lead editor, Iulia Georgescu.  This journal belongs to the recently established *Nature Reviews* family of journals (disucssed further below).  It is an impressive feat to see that in less than a decade, this journal has climbed the rankings over several much longer-established review journals, listed below.
 
 ## [Physics Reports](https://www.sciencedirect.com/journal/physics-reports)
 
@@ -75,6 +75,15 @@ These began with the *Annual Review in Biochemistry*, founded by J. Murray Luck,
 | [Annual Review of Fluid Mechanics](https://www.annualreviews.org/content/journals/fluid)	| 1969 | William R. Sears |
 | [Annual Review of Materials Research](https://www.annualreviews.org/content/journals/matsci)	| 1971 (originally as *Annual Review of Materials Science*) | Robert Huggins |
 | [Annual Review of Nuclear and Particle Science](https://www.annualreviews.org/content/journals/nucl)	| 1952 (originally as *Annual Review of Nuclear Science*) | Alberto F. Thompson |
+
+## Nature Reviews
+
+The *Nature Reviews* family includes, as noted above, *Nature Physics*.  Their first physical sciences review journal was *Nature Reviews Materials* in 2016.  Here are some selected members of the family:
+
+| Title	| First volume | Founding editor |
+| ----- | ------------ | --------------- |
+| [Nature Reviews Earth and Environment](https://www.nature.com/natrevearthenviron/)	| 2020 | Graham Simpkins |
+| [Nature Reviews Materials](https://www.nature.com/natrevmats/)	| 2016 | Alison Stoddart |
 
 ## Advances in…
 The title *Advances in...* is so generic that at least three competing publishers have physics review journals whose titles begin in this manner.  Let’s take each publisher in turn:
