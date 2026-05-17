@@ -73,6 +73,7 @@ These began with the *Annual Review in Biochemistry*, founded by J. Murray Luck,
 | [Annual Review of Earth and Planetary Sciences](https://www.annualreviews.org/content/journals/earth)	| 1973 | Fred A. Donath |
 | [Annual Review of Environment and Resources](https://www.annualreviews.org/content/journals/energy)	| 1976 (originally as *Annual Review of Energy*) | Jack M. Hollander |
 | [Annual Review of Fluid Mechanics](https://www.annualreviews.org/content/journals/fluid)	| 1969 | William R. Sears |
+| [Annual Review of Marine Science](https://www.annualreviews.org/content/journals/marine) | 2009 | Craig A. Carlson and Stephen J. Giovanni |
 | [Annual Review of Materials Research](https://www.annualreviews.org/content/journals/matsci)	| 1971 (originally as *Annual Review of Materials Science*) | Robert Huggins |
 | [Annual Review of Nuclear and Particle Science](https://www.annualreviews.org/content/journals/nucl)	| 1952 (originally as *Annual Review of Nuclear Science*) | Alberto F. Thompson |
 
@@ -145,6 +146,12 @@ Current publisher:  American Institute of Physics Publishing
 Current publisher:  Springer-Nature
 
 The journal was launched in 2017 by the Division of Plasma Physics of the Association of Asia Pacific Physical Societies.  If I’m not mistaken, the inaugural chair of the editorial board was Mitsuru Kikuchi.
+
+## [Earth-Science Reviews](https://www.sciencedirect.com/journal/earth-science-reviews)
+
+Current publisher:  Elsevier
+
+Elsevier founded this "International Magazine for Geo-Scientists" in 1966, under editors A. Brouwer, B. C. King, and N. Rast.
 
 ---
 
