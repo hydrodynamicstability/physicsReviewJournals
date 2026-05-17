@@ -105,11 +105,18 @@ From 2008-2019, Wiley also published *Advances in Acoustics and Vibration*, but 
 
 ### Elsevier
 
-I have selected two of their review serials for inclusion here; both are in the form of book series (originally published by Academic Press), like the *Annual Reviews* and *Advances in Chemical Physics*.
+I have selected the following review serials for inclusion here; they are in the form of book series (originally published by Academic Press), like the *Annual Reviews* and *Advances in Chemical Physics*.
 
-[Advances in Applied Mechanics](https://www.sciencedirect.com/bookseries/advances-in-applied-mechanics) began in 1948 under co-editors Richard von Mises and Theodore von Karman.  Among the authors in the first volume were Hugh Dryden, Jan Burgers, Hilda Geiringer, and Mises himself.
+| Title	| First volume | Founding editor |
+| ----- | ------------ | --------------- |
+| [Advances in Applied Mechanics](https://www.sciencedirect.com/bookseries/advances-in-applied-mechanics) | 1948  | Richard von Mises and Theodore von Karman |
+| [Advances in Atomic, Molecular, and Optical Physics](https://www.sciencedirect.com/bookseries/advances-in-atomic-molecular-and-optical-physics) | 1965 (as *Advances in Atomic and Molecular Physics*) | D. R. Bates and I. Estermann |
+| [Advances in Geophysics](https://www.sciencedirect.com/bookseries/advances-in-geophysics) | 1952 | H. E. Landsberg |
+| [Advances in Heat Transfer](https://www.sciencedirect.com/bookseries/advances-in-heat-transfer) | 1964 | Thomas F. Irvine, Jr. and James P. Hartnett |
+| [Advances in Imaging and Electron Physics](https://www.sciencedirect.com/bookseries/advances-in-imaging-and-electron-physics) | 1948 (as *Advances in Electronics and Electron Physics*) | L. Marton |
+| [Advances in Magnetic Resonance Technology and Applications](https://www.sciencedirect.com/bookseries/advances-in-magnetic-resonance-technology-and-applications) | 1965 (as *Advances in Magnetic and Optical Resonance*) | J. S. Waugh |
 
-[Advances in Heat Transfer](https://www.sciencedirect.com/bookseries/advances-in-heat-transfer) launched in 1964 under Thomas F. Irvine, Jr., and James P. Hartnett.
+Defunct titles include *Advances in Astronomy and Astrophysics* (1962-1972), *Advances in Biological and Medical Physics* (1948-1980), *Advances in Hydroscience* (1964-1986), *Advances in Liquid Crystals* (1975-1983), and *Advances in Space Science and Technology* (1961-1972).
 
 ### Other families
 
