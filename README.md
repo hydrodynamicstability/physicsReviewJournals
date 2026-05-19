@@ -120,11 +120,13 @@ Defunct titles include *Advances in Astronomy and Astrophysics* (1962-1972), *Ad
 
 ### Other families
 
-I won’t discuss here the physics review journals under the *Critical Reviews in…” series (Taylor & Francis) nor the *Living Reviews in…” series (Springer-Nature), as these are of not much personal interest to me.
+Taylor and Francis publishes [Critical Reviews in Solid State and Materials Sciences](https://www.tandfonline.com/journals/bsms20), founded in 1970 as the *CRC Critical Reviews in Soild State Sciences*. It belongs to their series of *Critical Reviews in*... journals. 
 
+Springer-Nature publishes [Living Reviews in Relativity](https://link.springer.com/journal/41114),  [Living Reviews in Solar Physics](https://link.springer.com/journal/41116), and [Living Reviews in Computational Astrophysics](https://link.springer.com/journal/41115), which were all founded by various Max Planck Intitutes (1998, 2004, and 2014, respectively).
 
+---
 
-Now let’s consider some other specialty review journals
+Now let’s consider some other specialty review journals.  First, some Earth science related journals:
 
 ## [Reviews of Geophysics](https://agupubs.onlinelibrary.wiley.com/journal/19449208)
 
@@ -132,7 +134,21 @@ Current publisher:  American Geophysical Union
 
 This journal launched in 1963, under lead editor Gordon J. F. MacDonald, and from 1970-1984 it was titled *Reviews of Geophysics and Space Physics*.
 
+## [Earth-Science Reviews](https://www.sciencedirect.com/journal/earth-science-reviews)
 
+Current publisher:  Elsevier
+
+Elsevier founded this "International Magazine for Geo-Scientists" in 1966, under editors A. Brouwer, B. C. King, and N. Rast.
+
+## [Surveys in Geophysics](https://link.springer.com/journal/10712)
+
+Current publisher:  Springer-Nature
+
+I believe this journal began in 1972 under the publisher Kluwer.
+
+---
+
+Here are some other specialty journals of note.
 
 ## [Applied Mechanics Reviews](https://asmedigitalcollection.asme.org/appliedmechanicsreviews)
 
@@ -154,11 +170,7 @@ Current publisher:  Springer-Nature
 
 The journal was launched in 2017 by the Division of Plasma Physics of the Association of Asia Pacific Physical Societies.  If I’m not mistaken, the inaugural chair of the editorial board was Mitsuru Kikuchi.
 
-## [Earth-Science Reviews](https://www.sciencedirect.com/journal/earth-science-reviews)
 
-Current publisher:  Elsevier
-
-Elsevier founded this "International Magazine for Geo-Scientists" in 1966, under editors A. Brouwer, B. C. King, and N. Rast.
 
 ---
 
