@@ -21,7 +21,7 @@ As a reader with special interest in fluid mechanics, as far as I can tell, the 
 
 Current publisher:  Springer-Nature
 
-Second ranked is one of the newest physics review journals; it was founded in 2019 by its first lead editor, Iulia Georgescu.  This journal belongs to the recently established *Nature Reviews* family of journals (disucssed further below).  It is an impressive feat to see that in less than a decade, this journal has climbed the rankings over several much longer-established review journals, listed below.
+Second ranked is one of the newest physics review journals; it was founded in 2019 by its first lead editor, Iulia Georgescu.  This journal belongs to the recently established *Nature Reviews* family of journals (disucssed further below).  It is an impressive feat to see that in less than a decade, this journal has climbed the rankings over several much longer-established review journals, listed below.  I especially appreciate this journal's Commentaries section, a worthy successor for the defunct Reference Frame column in *Physics Today*.
 
 ## [Physics Reports](https://www.sciencedirect.com/journal/physics-reports)
 
