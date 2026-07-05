@@ -164,7 +164,7 @@ This journal was launched in 1948 under lead editor L. H. Donnell, with editoria
 
 Current publisher:  Wiley
 
-This journal was created in 2007 by founding editor Theodor Hansch.  Originally a pure reviews journal, in 2012 they began to publish original research as well.
+This journal was created in 2007.  Originally a pure reviews journal, in 2012 they began to publish original research as well.
 
 ## [Applied Physics Reviews](https://pubs.aip.org/aip/apr)
 
