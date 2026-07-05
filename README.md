@@ -124,6 +124,8 @@ Defunct titles include *Advances in Astronomy and Astrophysics* (1962-1972), *Ad
 
 Taylor and Francis publishes [Critical Reviews in Solid State and Materials Sciences](https://www.tandfonline.com/journals/bsms20), founded in 1970 as the *CRC Critical Reviews in Soild State Sciences*. It belongs to their series of *Critical Reviews in*... journals. 
 
+Elsevier acquired the *Current Opinion in...* family of review journals, which includes [Current Opinion in Solid State and Materials Science](https://www.sciencedirect.com/journal/current-opinion-in-solid-state-and-materials-science), founded in 1996.
+
 Springer-Nature publishes [Living Reviews in Relativity](https://link.springer.com/journal/41114),  [Living Reviews in Solar Physics](https://link.springer.com/journal/41116), and [Living Reviews in Computational Astrophysics](https://link.springer.com/journal/41115), which were all founded by various Max Planck Intitutes (1998, 2004, and 2014, respectively).
 
 ---
@@ -158,6 +160,11 @@ Current publisher:  American Society of Mechanical Engineers
 
 This journal was launched in 1948 under lead editor L. H. Donnell, with editorial advisors Theodore von Karman and Stephen P. Timoshenko.  Originally it was quite complementary to *Advances in Applied Mechanics*, founded the same year, since it seemed to focus on critical reviews of specific papers, instead of synthetic overviews of major subjects.  *AMR* has gradually evolved so that at present, it's a more conventional review journal.  According to Clarivate, this is the second highest ranked review journal in mechanics, behind the *Annual Review of Fluid Mechanics*.
 
+## [Laser and Photonics Reviews](https://onlinelibrary.wiley.com/journal/18638899)
+
+Current publisher:  Wiley
+
+This journal was created in 2007 by founding editor Theodor Hansch.  Originally a pure reviews journal, in 2012 they began to publish original research as well.
 
 ## [Applied Physics Reviews](https://pubs.aip.org/aip/apr)
 
