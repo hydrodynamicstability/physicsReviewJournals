@@ -39,7 +39,7 @@ Rounding out the top four ranked physics review journals, *ROPP* was founded in 
 
 Current publisher:  Springer-Nature
 
-Its first volume was published in 1978 by the Italian Physical Society (SIF), as a supplement to its main journal, *Il Nuovo Cimento*.  At some point (likely around the turn of the 21st century) it became associated with the *European Physical Journal* family, co-published by EDP, Springer-Nature, and SIF.
+This journal [celebrated](https://www.primapagina.sif.it/article/1077/la-rivista-del-nuovo-cimento-50-anni-di-storia-per-guardare) its 50th anniversary in 2019; thus it began in 1969.  Indeed, you can find a 1969 edition on Google Books.  However the current series' first volume was published in 1978.  The journal is published by the Italian Physical Society (SIF), as a supplement to its main journal, *Il Nuovo Cimento*.  At some point (likely around the turn of the 21st century) it became associated with the *European Physical Journal* family, co-published by EDP, Springer-Nature, and SIF.
 
 
 ## [Physics-Uspekhi](https://www.ufn.ru/en/)
@@ -149,6 +149,28 @@ Elsevier founded this "International Magazine for Geo-Scientists" in 1966, under
 Current publisher:  Springer-Nature
 
 I believe this journal began in 1972 under the publisher Kluwer.
+
+---
+
+Next, here are some astronomy and astrophysics review journals.
+
+## [The Astronomy and Astrophysics Review](https://link.springer.com/journal/159)
+
+Current publisher:  Springer-Nature
+
+This journal began in 1989, and is currently ranked third in impact factor behing the *Annual Review of Astronomy and Astrophysics* and *Living Reviews in Solar Physics* in the 2025 Clarivate journal citation report for astronomy and astrophysics.
+
+## [New Astronomy Reviews](https://www.sciencedirect.com/journal/new-astronomy-reviews)
+
+Current publisher:  Elsevier
+
+According to the Internet Archive, this journal begain in 1955 under the title, *Vistas in Astronomy*, adopting its current title in 1998.  In 1991, *Astronomy Quarterly* was merged into the journal.
+
+## [Space Science Reviews](https://link.springer.com/journal/11214)
+
+Current publisher:  Springer-Nature
+
+The journal originated in 1962 under founding editor C. de Jager.
 
 ---
 
