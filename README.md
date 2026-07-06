@@ -120,13 +120,28 @@ I have selected the following review serials for inclusion here; they are in the
 
 Defunct titles include *Advances in Astronomy and Astrophysics* (1962-1972), *Advances in Biological and Medical Physics* (1948-1980), *Advances in Hydroscience* (1964-1986), *Advances in Liquid Crystals* (1975-1983), and *Advances in Space Science and Technology* (1961-1972).
 
+In a journal format, the *Progress in...* family includes:
+
+| Title	| First volume | Founding editor |
+| ----- | ------------ | --------------- |
+| [Progress in Biophysics and Molecular Biology](https://www.sciencedirect.com/journal/progress-in-biophysics-and-molecular-biology) | 1950 (As *Progress in Biophysics and Biophysical Chemistry*) | J. A. V. Butler and J. T. Randall |
+| [Progress in Energy and Combustion Science](https://www.sciencedirect.com/journal/progress-in-energy-and-combustion-science) | 1975 | Norman Chigier |
+| [Progress in Materials Science](https://www.sciencedirect.com/journal/progress-in-materials-science) | 1949 (as *Progress in Metal Physics*) ) | Bruce Chalmers |
+| [Progress in Nuclear Magnetic Spectroscopy](https://www.sciencedirect.com/journal/progress-in-nuclear-magnetic-resonance-spectroscopy) | 1965  | R. E. Richards  |
+| [Progress in Particle and Nuclear Physics](https://www.sciencedirect.com/journal/progress-in-particle-and-nuclear-physics) | 1978 | D. H. Wilkinson |
+| [Progress in Quantum Electronics](https://www.sciencedirect.com/journal/progress-in-quantum-electronics) | 1969 | ? |
+
+
+
 ### Other families
 
 Taylor and Francis publishes [Critical Reviews in Solid State and Materials Sciences](https://www.tandfonline.com/journals/bsms20), founded in 1970 as the *CRC Critical Reviews in Soild State Sciences*. It belongs to their series of *Critical Reviews in*... journals. 
 
-Elsevier acquired the *Current Opinion in...* family of review journals, which includes [Current Opinion in Solid State and Materials Science](https://www.sciencedirect.com/journal/current-opinion-in-solid-state-and-materials-science), founded in 1996.
+Elsevier acquired the *Current Opinion in...* family of review journals, which includes [Current Opinion in Solid State and Materials Science](https://www.sciencedirect.com/journal/current-opinion-in-solid-state-and-materials-science), founded in 1996.  
 
 Springer-Nature publishes [Living Reviews in Relativity](https://link.springer.com/journal/41114),  [Living Reviews in Solar Physics](https://link.springer.com/journal/41116), and [Living Reviews in Computational Astrophysics](https://link.springer.com/journal/41115), which were all founded by various Max Planck Intitutes (1998, 2004, and 2014, respectively).
+
+Wiley publishes a series of "WIREs", or Wiley Interdisciplinary REviews, including [WIRES Climate Change](https://wires.onlinelibrary.wiley.com/journal/17577799), [WIREs Energy and Environment](https://wires.onlinelibrary.wiley.com/journal/2041840x), and [WIREs Water](https://wires.onlinelibrary.wiley.com/journal/20491948).
 
 ---
 
@@ -174,6 +189,28 @@ The journal originated in 1962 under founding editor C. de Jager.
 
 ---
 
+Some journals in biological physics include
+
+## [Physics of Life Reviews](https://www.sciencedirect.com/journal/physics-of-life-reviews)
+
+Current publisher:  Elsevier
+
+The journal began in 2004 under lead editor Leonid Perlovsky.
+
+## [Biophysical Reviews](https://link.springer.com/journal/12551)
+
+Current publisher:  Springer-Nature
+
+The journal began in 20009 under chief editor Jean Garnier.
+
+## [Biophysics Reviews](https://pubs.aip.org/aip/bpr)
+
+Current publisher:  American Institute of Physics Publishing
+
+The journal began in 2020, again following in the footsteps of *APR*.  Its founding lead editor is Kevin Kit Parker.
+
+---
+
 Here are some other specialty journals of note.
 
 ## [Applied Mechanics Reviews](https://asmedigitalcollection.asme.org/appliedmechanicsreviews)
@@ -206,7 +243,21 @@ Current publisher:  Springer-Nature
 
 The journal was launched in 2017 by the Division of Plasma Physics of the Association of Asia Pacific Physical Societies.  If I’m not mistaken, the inaugural chair of the editorial board was Mitsuru Kikuchi.
 
+## [Nanotechnology Reviews](https://www.degruyterbrill.com/journal/key/ntrev/html)
 
+Current publisher:  DeGruyter-Brill
+
+The journal began in 2012 under lead editor Challa Kumar.
+
+## [Reviews in Mathematical Physics](https://www.worldscientific.com/worldscinet/rmp)
+
+Current publisher:  World Scientific
+
+The journal began in 1989 under founding chief editor, Huzihiro Araki.  The journal published both review articles and original research.
+
+---
+
+Finally, a defunct book series worthy of mentioning is *Physical Acoustics*, which ran from 1964 to 1999, published by Academic Press.  As far as I know, there is no current, dedicated review journal devoted exclusively to acoustics.
 
 ---
 
