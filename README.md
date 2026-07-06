@@ -120,16 +120,8 @@ I have selected the following review serials for inclusion here; they are in the
 
 Defunct titles include *Advances in Astronomy and Astrophysics* (1962-1972), *Advances in Biological and Medical Physics* (1948-1980), *Advances in Hydroscience* (1964-1986), *Advances in Liquid Crystals* (1975-1983), and *Advances in Space Science and Technology* (1961-1972).
 
-In a journal format, the *Progress in...* family includes:
 
-| Title	| First volume | Founding editor |
-| ----- | ------------ | --------------- |
-| [Progress in Biophysics and Molecular Biology](https://www.sciencedirect.com/journal/progress-in-biophysics-and-molecular-biology) | 1950 (As *Progress in Biophysics and Biophysical Chemistry*) | J. A. V. Butler and J. T. Randall |
-| [Progress in Energy and Combustion Science](https://www.sciencedirect.com/journal/progress-in-energy-and-combustion-science) | 1975 | Norman Chigier |
-| [Progress in Materials Science](https://www.sciencedirect.com/journal/progress-in-materials-science) | 1949 (as *Progress in Metal Physics*) ) | Bruce Chalmers |
-| [Progress in Nuclear Magnetic Spectroscopy](https://www.sciencedirect.com/journal/progress-in-nuclear-magnetic-resonance-spectroscopy) | 1965  | R. E. Richards  |
-| [Progress in Particle and Nuclear Physics](https://www.sciencedirect.com/journal/progress-in-particle-and-nuclear-physics) | 1978 | D. H. Wilkinson |
-| [Progress in Quantum Electronics](https://www.sciencedirect.com/journal/progress-in-quantum-electronics) | 1969 | ? |
+
 
 
 
@@ -137,7 +129,17 @@ In a journal format, the *Progress in...* family includes:
 
 Taylor and Francis publishes [Critical Reviews in Solid State and Materials Sciences](https://www.tandfonline.com/journals/bsms20), founded in 1970 as the *CRC Critical Reviews in Soild State Sciences*. It belongs to their series of *Critical Reviews in*... journals. 
 
-Elsevier acquired the *Current Opinion in...* family of review journals, which includes [Current Opinion in Solid State and Materials Science](https://www.sciencedirect.com/journal/current-opinion-in-solid-state-and-materials-science), founded in 1996.  
+Elsevier acquired the *Current Opinion in...* family of review journals, which includes [Current Opinion in Solid State and Materials Science](https://www.sciencedirect.com/journal/current-opinion-in-solid-state-and-materials-science), founded in 1996.  They also have the *Progress in...* series of review journals, including:
+
+| Title	| First volume | Founding editor |
+| ----- | ------------ | --------------- |
+| [Progress in Biophysics and Molecular Biology](https://www.sciencedirect.com/journal/progress-in-biophysics-and-molecular-biology) | 1950 (As *Progress in Biophysics and Biophysical Chemistry*) | J. A. V. Butler and J. T. Randall |
+| [Progress in Energy and Combustion Science](https://www.sciencedirect.com/journal/progress-in-energy-and-combustion-science) | 1975 | Norman Chigier |
+| [Progress in Materials Science](https://www.sciencedirect.com/journal/progress-in-materials-science) | 1949 (as *Progress in Metal Physics*)  | Bruce Chalmers |
+| [Progress in Nuclear Magnetic Spectroscopy](https://www.sciencedirect.com/journal/progress-in-nuclear-magnetic-resonance-spectroscopy) | 1965  | R. E. Richards  |
+| [Progress in Particle and Nuclear Physics](https://www.sciencedirect.com/journal/progress-in-particle-and-nuclear-physics) | 1978 | D. H. Wilkinson |
+| [Progress in Quantum Electronics](https://www.sciencedirect.com/journal/progress-in-quantum-electronics) | 1969 | ? |
+
 
 Springer-Nature publishes [Living Reviews in Relativity](https://link.springer.com/journal/41114),  [Living Reviews in Solar Physics](https://link.springer.com/journal/41116), and [Living Reviews in Computational Astrophysics](https://link.springer.com/journal/41115), which were all founded by various Max Planck Intitutes (1998, 2004, and 2014, respectively).
 
