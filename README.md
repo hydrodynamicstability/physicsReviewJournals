@@ -7,6 +7,8 @@ In this age of rampant "AI summaries", I continue to value human-authored source
 
 I start with the general (broad-spectrum) physics review journals, in order of their ranking according to Clarivate’s 2025 Journal Impact Factor (JIF), from its *Journal Citation Reports*.  Then I turn to review journals focusing on subdisciplines.  I start with several review journal families, and conclude with the remaining specialty review journals that I know of and occasionally follow.  To be clear, this list is not intended to be complete, especially for the range of subdisciplines within and adjacent to physics.  I have restricted attention to journals published in English and that appear to be still operating at the time of writing.  (An exception is *Advances in Chemical Physics*, which does not seem to be going anymore, but its immense importance to the literature justifies its inclusion here.)
 
+It also seems worthy to note that in 2026, Springer-Nature launched a new multidisciplinary, open access review journal covering "all areas of the natural sciences, psychology, medicine, and engineering."  The journal is [Scientific Reviews](https://www.nature.com/scirev/), meant to be a sibling to their open access journal, *Scientific Reports*.  The enormous editorial board, led by chief editor Samuel Brod, is divided into several disciplinary groups, including a number of topics in physics and Earth sciences.  At least one of the numerous calls for papers listed on their website is on a topic in fluid mechanics.  We shall see what becomes of this new journal....
+
 # Broad spectrum review journals
 
 ## [Reviews of Modern Physics](https://journals.aps.org/rmp/)
