@@ -99,7 +99,7 @@ The title *Advances in...* is so generic that at least three competing publisher
 
 In 2016, the publisher added a second journal to the family, [Advances in Physics:  X](https://www.tandfonline.com/journals/tapx20), under Richard E. Palmer.  This journal seeks to "demonstrate the interconnectivity of physics, meaning the intellectual relationships that exist between one branch of physics and another, as well as the influence of physics across (hence the 'X') traditional boundaries into other disciplines".  According to Clarivate, in 2025 this journal already ranks just below *Reports on Progress in Physics* among the broad-spectrum physics review journals, though I consider it to be somewhat of a specialty journal.
 
-In 2025, a third journal was added, [Advances in Physics:  Astronomy, Astrophysics and Particle Physics](https://www.tandfonline.com/journals/taaa20), under Eric S. Perlman.  At the time of writing, no articles have yet appeared.
+In 2025, a third journal was added, [Advances in Physics:  Astronomy, Astrophysics and Particle Physics](https://www.tandfonline.com/journals/taaa20), under Eric S. Perlman.  Its first article was published in the summer of 2026.
 
 ### Wiley
 
