@@ -3,7 +3,7 @@
 
 I recently experienced frustration at my inability to locate, on the Internet, a convenient list of review journals in physics and a few related subjects of personal interest to me.  Hence for my own convenience, I’ve assembled the following such list.  
 
-In this age of rampant "AI summaries", I continue to value human-authored sources of authoritative, critical overviews, informed by the judgment and perspective of their authors.  This implies that selection and distillation are in order.  These aims compete with the goals of objectiveness and comprehensiveness sometimes suggested for these kinds of articles.   To borrow a phrase from the [editors](https://doi.org/10.1103/RevModPhys.41.1) of *Reviews of Modern Physics*, I nurture an "appreciation for the art of criticism, or the value of synthesis of ideas and of informed and perceptive commentary about physics".  (See also Roberto Lalli’s ["brief history of physics reviews"](https://doi.org/10.1038/s42254-018-0008-0 ), which unfortunately omits discussion of the Russian literature).
+In this age of rampant "AI summaries", I continue to value human-authored sources of authoritative, critical overviews, informed by the judgment and perspective of their authors.  This implies that selection and distillation are in order.  These aims compete with the goals of objectiveness and comprehensiveness sometimes suggested for these kinds of articles.   To borrow a phrase from the [editors](https://doi.org/10.1103/RevModPhys.41.1) of *Reviews of Modern Physics*, I nurture an "appreciation for the art of criticism, or the value of synthesis of ideas and of informed and perceptive commentary about physics".  (See also Roberto Lalli’s ["brief history of physics reviews"](https://doi.org/10.1038/s42254-018-0008-0 ), which unfortunately omits discussion of the Russian literature).  A cogent discussion of physics review journals, in relation to the rest of the physics literature, may be found in John Ziman's introductory chapter (Ch. 1) to *Information Sources in Physics*, third edition, edited by Dennis F. Shaw (London:  Bowker Saur, 1994).  
 
 I start with the general (broad-spectrum) physics review journals, in order of their ranking according to Clarivate’s 2025 Journal Impact Factor (JIF), from its *Journal Citation Reports*.  Then I turn to review journals focusing on subdisciplines.  I start with several review journal families, and conclude with the remaining specialty review journals that I know of and occasionally follow.  To be clear, this list is not intended to be complete, especially for the range of subdisciplines within and adjacent to physics.  I have restricted attention to journals published in English and that appear to be still operating at the time of writing.  (An exception is *Advances in Chemical Physics*, which does not seem to be going anymore, but its immense importance to the literature justifies its inclusion here.)
 
@@ -222,6 +222,12 @@ Here are some other specialty journals of note.
 Current publisher:  American Society of Mechanical Engineers
 
 This journal was launched in 1948 under lead editor L. H. Donnell, with editorial advisors Theodore von Karman and Stephen P. Timoshenko.  Originally it was quite complementary to *Advances in Applied Mechanics*, founded the same year, since it seemed to focus on critical reviews of specific papers, instead of synthetic overviews of major subjects.  *AMR* has gradually evolved so that at present, it's a more conventional review journal.  According to Clarivate, this is the second highest ranked review journal in mechanics, behind the *Annual Review of Fluid Mechanics*.
+
+## [Progress in Optics](https://www.sciencedirect.com/bookseries/progress-in-optics)
+
+Current publisher:  Elsevier
+
+This annual review journal was edited by Emil Wolf since it started in 1962 through the 2015 issue.  Taco D. Visser became editor with the 2016 issue.
 
 ## [Laser and Photonics Reviews](https://onlinelibrary.wiley.com/journal/18638899)
 
